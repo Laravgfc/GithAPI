@@ -1,6 +1,10 @@
 # GithAPI
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.This project consumes data from the [Github API](https://docs.github.com/pt/rest?apiVersion=2022-11-28). For development the routing concept of angular is used. The application has a home page to search for the user, a page containing user information and a page containing information from a specific repository.
+![image](https://github.com/Laravgfc/GithAPI/assets/51674659/ed6c5ce2-1421-43de-95a1-ee428f05b4cc)
+![image](https://github.com/Laravgfc/GithAPI/assets/51674659/6b18f5fb-a85c-4954-b40b-79b4085759c5)
+![image](https://github.com/Laravgfc/GithAPI/assets/51674659/1e1e8ecb-8781-482e-9d99-f47fe5ad4c29)
+
 
 ## Development server
 
